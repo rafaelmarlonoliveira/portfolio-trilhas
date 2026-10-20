@@ -10,3 +10,4 @@
 - HTML5
 - CSS3
 - JavaScript básico
+Portfólio desenvolvido durante o Programa Trilhas.
